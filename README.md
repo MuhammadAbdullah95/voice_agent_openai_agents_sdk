@@ -94,7 +94,7 @@ CONTRIBUTING
 CREDITS
 -------
 - Built by MuhammadAbdullah95
-- Powered by [openai-agents](https://github.com/openai/openai-agents) and [Textual](https://textual.textualize.io/)
+- Powered by [openai-agents](https://openai.github.io/openai-agents-python/) and [Textual](https://textual.textualize.io/)
 
 ---
 
